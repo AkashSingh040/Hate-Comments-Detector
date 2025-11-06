@@ -17,7 +17,7 @@ We build a supervised machine learning model that classifies text as either hate
 
 - Install required libraries using `pip install numpy pandas scikit-learn nltk`  
 - Download NLTK resources using `nltk.download('stopwords')` and `nltk.download('punkt')`  
-- Clone the repository using `git clone https://github.com/your-username/hate-speech-detector.git`  
+- Clone the repository using `git clone https://https://github.com/AkashSingh040/Hate-Comments-Detector`  
 - Open the project folder and launch Jupyter Notebook using `jupyter notebook`  
 - Run each cell of the notebook step-by-step: import libraries, load and preprocess data, extract features, split data, train the model, and evaluate performance  
 - Finally, test the trained model on sample Twitter comments from the dataset to check its accuracy and predictions  
@@ -30,4 +30,5 @@ After training, you can run predictions on real Twitter comments from your datas
 
 - Integrate deep learning models (e.g., LSTM or BERT)  
 - Deploy as a web API using Flask or FastAPI  
+
 - Add multilingual support for broader coverage  
